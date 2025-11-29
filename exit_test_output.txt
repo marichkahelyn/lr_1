@@ -1,0 +1,1 @@
+auto,Mazda,100000.0,0.2,12,Sedan,0,true
